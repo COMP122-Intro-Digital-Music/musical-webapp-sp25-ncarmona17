@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "name": "baila ",
+    "file": "samples/plucky-funk-melody_140bpm_D_major.wav",
+    "bpm": "127",
+    "loop": "1m",
+    "grain": "0.071",
+    "overlap": 0.01
+  },
+  {
+    "name": "raqs",
+    "file": "samples/reggaeton-drum-loop-bouncy-warm-beat_96bpm_C_minor.wav",
+    "bpm": "116",
+    "loop": "1m",
+    "grain": "0.151",
+    "overlap": "0.031"
+  },
+  {
+    "name": "Untitled",
+    "file": "samples/reggaeton-drum-loop-5_90bpm_B_major.wav",
+    "bpm": 120,
+    "loop": "1m",
+    "grain": 0.04,
+    "overlap": 0.01
+  }
+]
